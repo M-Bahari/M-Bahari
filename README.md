@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Mism.bahari@gmail.com)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/M-Bahari)
 
-- 💻 Student at [**University of Victoria**]. 
+- 💻 Master Student at [**University of Victoria**]. 
 - 🌱 I love Python, Machine Learning, Git, etc. 
 - 📫 How to reach me: Mism.bahari@gmail.com
 

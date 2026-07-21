@@ -1,9 +1,9 @@
 # Mahboubeh Bahari
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FM-Bahari%2FM-Bahari&count_bg=%2379C83D&title_bg=%23555555&title=Profile+Views)](https://hits.seeyoufarm.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-bahari)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:Mism.bahari@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/M-Bahari?label=Follow&style=social)](https://github.com/M-Bahari)
+[![Profile Views](https://komarev.com/ghpvc/?username=M-Bahari&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/M-Bahari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-bahari)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mism.bahari@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/M-Bahari?label=Followers&style=social)](https://github.com/M-Bahari)
 
 ## 👋 About Me
 
